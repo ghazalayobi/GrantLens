@@ -17,3 +17,6 @@ __pycache__/
 
 # Local databases
 *.sqlite3
+
+# Raw data files
+data/raw/*.html
